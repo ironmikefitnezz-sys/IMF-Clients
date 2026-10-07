@@ -1,5 +1,17 @@
 {
   "client": "Justin",
   "muscle_group": "Back and Triceps",
-  "sessions": []
+  "sessions": [
+    {
+      "date": "2026-09-01",
+      "exercises": [
+        "Dumbbell Shoulder Press",
+        "Cable Rope Face Pull",
+        "Dumbbell Lateral Raise",
+        "Cable Upright Row",
+        "Dumbbell Front Raise",
+        "Machine Rear Delt Fly (reverse pec deck)"
+      ]
+    }
+  ]
 }
