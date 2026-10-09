@@ -3,6 +3,34 @@
   "muscle_group": "Shoulders",
   "sessions": [
     {
+      "date": "2026-10-09",
+      "warmup": [
+        "[IMF-021 | Light Bike]",
+        "[IMF-015 | Arm Circles]",
+        "[IMF-014 | Wall Slides]"
+      ],
+      "main_block": [
+        "Today is a full active recovery session. No external loading. Move through each exercise with intention and focus on breathing throughout.",
+        "[IMF-001 | Cat-Cow] 10 slow reps, move with your breath and let the spine decompress in both directions.",
+        "[IMF-002 | Bird Dog] 3 sets of 8 reps each side, rest 30 seconds between sets. Keep your hips level and reach long through the opposite arm and leg.",
+        "[IMF-007 | 90/90 Hip Switches] 10 reps each side, rest 30 seconds between sets. Move slowly and let the hips open up without forcing range.",
+        "[IMF-004 | Standing Hip Circles] 10 circles each direction, use this to work through any tightness in the hips from yesterday's leg session.",
+        "[IMF-055 | Clamshell with Band] 2 sets of 15 reps each side, rest 30 seconds between sets. Controlled movement supporting right hip strength as part of your SI joint rehab.",
+        "[IMF-054 | Single-Leg Glute Bridge] 2 sets of 12 reps each side, rest 30 seconds between sets. Focus on keeping the pelvis level and squeezing at the top.",
+        "[IMF-028 | Plank, Forearms] 2 sets of 20 seconds, rest 30 seconds between sets. Breathe steadily and hold without holding your breath.",
+        "[IMF-026 | Pallof Press] 2 sets of 10 reps each side, rest 30 seconds between sets. Slow press out and controlled return, this one directly supports your SI joint stability.",
+        "[IMF-283 | Foam Roll, Upper Back] 60 seconds, work slowly up and down the upper back and pause on any tight spots.",
+        "[IMF-284 | Foam Roll, Glutes] 60 seconds each side, take your time here after two leg days this week."
+      ],
+      "cooldown": [
+        "[IMF-264 | Figure-Four Stretch]",
+        "[IMF-268 | Lying Knee-to-Chest Stretch]",
+        "[IMF-269 | Lying Spinal Twist, Gentle]",
+        "[IMF-274 | Cross-Body Shoulder Stretch]",
+        "[IMF-279 | Diaphragmatic Breathing, 90/90 Position]"
+      ]
+    },
+    {
       "date": "2026-10-07",
       "warmup": [
         "[IMF-015 | Arm Circles]",
@@ -80,17 +108,6 @@
         "[IMF-277 | Upper Trap Stretch]",
         "[IMF-268 | Lying Knee-to-Chest Stretch]",
         "[IMF-279 | Diaphragmatic Breathing, 90/90 Position]"
-      ]
-    },
-    {
-      "date": "2026-10-09",
-      "exercises": [
-        "[IMF-181 | Dumbbell Shoulder Press, Seated] 4 sets of 10 reps, controlled press up and a slow lower back down",
-        "[IMF-188 | Dumbbell Lateral Raise] 4 sets of 12 reps, raise to shoulder height and resist the weight on the way down",
-        "[IMF-193 | Cable Front Raise] 3 sets of 12 reps, lift to shoulder height and control the descent",
-        "[IMF-172 | Face Pull] 3 sets of 15 reps, pull to forehead height and hold briefly at the end of each rep",
-        "[IMF-189 | Cable Lateral Raise] 3 sets of 12 reps each side, single arm, keep a slight bend in the elbow throughout",
-        "[IMF-199 | External Rotation, Cable] 3 sets of 15 reps each side, slow and controlled through the full range"
       ]
     }
   ]
