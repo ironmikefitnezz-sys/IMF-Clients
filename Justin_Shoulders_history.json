@@ -7,6 +7,34 @@
       "warmup": [
         "[IMF-021 | Light Bike]",
         "[IMF-015 | Arm Circles]",
+        "[IMF-014 | Wall Slides]",
+        "[IMF-004 | Standing Hip Circles]"
+      ],
+      "main_block": [
+        "Circuit format today. Move through all exercises before resting. Take 15 to 20 seconds to transition between exercises and rest 90 seconds after completing the full circuit. Complete 4 rounds total.",
+        "Circuit: complete all exercises before resting",
+        "Exercise 1: [IMF-181 | Dumbbell Shoulder Press, Seated] 12 reps. Press with control on the way up and lower slowly on the way down.",
+        "Exercise 2: [IMF-189 | Cable Lateral Raise] 12 reps each side. Keep a soft bend in the elbow and raise to shoulder height.",
+        "Exercise 3: [IMF-194 | Plate Front Raise] 12 reps. Lift to shoulder height and lower with control, keeping the movement smooth throughout.",
+        "Exercise 4: [IMF-172 | Face Pull] 15 reps. Pull to forehead height and hold briefly at the end range of each rep.",
+        "Exercise 5: [IMF-198 | Cuban Press] 12 reps. Move through the full rotation deliberately and do not rush the press at the top.",
+        "Exercise 6: [IMF-197 | Band Pull-Apart] 15 reps. Keep a slight bend in the elbows and pull the band apart in a smooth controlled arc.",
+        "Rest: 90 seconds, then repeat",
+        "Complete 4 rounds total"
+      ],
+      "cooldown": [
+        "[IMF-274 | Cross-Body Shoulder Stretch]",
+        "[IMF-277 | Upper Trap Stretch]",
+        "[IMF-275 | Overhead Triceps Stretch]",
+        "[IMF-268 | Lying Knee-to-Chest Stretch]",
+        "[IMF-279 | Diaphragmatic Breathing, 90/90 Position]"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "warmup": [
+        "[IMF-021 | Light Bike]",
+        "[IMF-015 | Arm Circles]",
         "[IMF-014 | Wall Slides]"
       ],
       "main_block": [
@@ -75,37 +103,6 @@
         "[IMF-274 | Cross-Body Shoulder Stretch]",
         "[IMF-277 | Upper Trap Stretch]",
         "[IMF-275 | Overhead Triceps Stretch]",
-        "[IMF-268 | Lying Knee-to-Chest Stretch]",
-        "[IMF-279 | Diaphragmatic Breathing, 90/90 Position]"
-      ]
-    },
-    {
-      "date": "2026-10-09",
-      "warmup": [
-        "[IMF-015 | Arm Circles]",
-        "[IMF-014 | Wall Slides]",
-        "[IMF-004 | Standing Hip Circles]",
-        "[IMF-007 | 90/90 Hip Switches]",
-        "[IMF-021 | Light Bike]"
-      ],
-      "main_block": [
-        "Superset 1: complete all sets before moving on",
-        "Exercise A: [IMF-186 | Arnold Press] 4 sets of 10 reps, rest 50 seconds after completing both exercises then repeat",
-        "Exercise B: [IMF-189 | Cable Lateral Raise] 4 sets of 12 reps each side",
-        "Superset 2: complete all sets before moving on",
-        "Exercise A: [IMF-190 | Machine Lateral Raise] 3 sets of 15 reps, rest 50 seconds after completing both exercises then repeat",
-        "Exercise B: [IMF-193 | Cable Front Raise] 3 sets of 12 reps",
-        "Superset 3: complete all sets before moving on",
-        "Exercise A: [IMF-172 | Face Pull] 3 sets of 15 reps, rest 50 seconds after completing both exercises then repeat",
-        "Exercise B: [IMF-197 | Band Pull-Apart] 3 sets of 15 reps",
-        "Finisher: traditional sets",
-        "[IMF-199 | External Rotation, Cable] 2 sets of 15 reps each side, rest 45 seconds between sets",
-        "Note: Superset 1 requires a dumbbell station and a cable station at the same time. If both are not available, perform the Arnold Press with dumbbells first, rest 30 seconds, then move to the cable for lateral raises and treat them as traditional sets."
-      ],
-      "cooldown": [
-        "[IMF-274 | Cross-Body Shoulder Stretch]",
-        "[IMF-275 | Overhead Triceps Stretch]",
-        "[IMF-277 | Upper Trap Stretch]",
         "[IMF-268 | Lying Knee-to-Chest Stretch]",
         "[IMF-279 | Diaphragmatic Breathing, 90/90 Position]"
       ]
