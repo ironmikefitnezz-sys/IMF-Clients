@@ -1,0 +1,3230 @@
+{
+ "IMF-001": {
+  "name": "Cat-Cow",
+  "section": "Warm-Up And Mobility",
+  "desc": "On hands and knees, arch your back up, then let it sink down, slowly.",
+  "note": "",
+  "img": [
+   "Cat_Stretch/0.jpg",
+   "Cat_Stretch/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-002": {
+  "name": "Bird Dog",
+  "section": "Warm-Up And Mobility",
+  "desc": "On hands and knees, reach one arm and the opposite leg straight out, then switch.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-004": {
+  "name": "Standing Hip Circles",
+  "section": "Warm-Up And Mobility",
+  "desc": "Stand on one leg, draw big slow circles with the other knee.",
+  "note": "",
+  "img": [
+   "Standing_Hip_Circles/0.jpg",
+   "Standing_Hip_Circles/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-005": {
+  "name": "Leg Swings",
+  "section": "Warm-Up And Mobility",
+  "desc": "Hold a wall, swing one leg forward and back like a pendulum, then turn and swing it side to side across your body.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-007": {
+  "name": "90/90 Hip Switches",
+  "section": "Warm-Up And Mobility",
+  "desc": "Sit with both knees bent at right angles, rotate your knees to the other side.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-008": {
+  "name": "Hip Flexor Stretch, Half Kneeling",
+  "section": "Warm-Up And Mobility",
+  "desc": "One knee down, other foot forward, gently shift your hips forward.",
+  "note": "",
+  "img": [
+   "Kneeling_Hip_Flexor/0.jpg",
+   "Kneeling_Hip_Flexor/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-009": {
+  "name": "Walking Knee Hugs",
+  "section": "Warm-Up And Mobility",
+  "desc": "Step forward, pull one knee to your chest, switch with each step.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Text only",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-010": {
+  "name": "Walking Lunge with Reach",
+  "section": "Warm-Up And Mobility",
+  "desc": "Step into a short lunge, stay tall, reach arms overhead.",
+  "note": "",
+  "img": [
+   "Bodyweight_Walking_Lunge/0.jpg",
+   "Bodyweight_Walking_Lunge/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-011": {
+  "name": "World's Greatest Stretch",
+  "section": "Warm-Up And Mobility",
+  "desc": "Lunge position, hand down inside the front foot, rotate your chest toward the ceiling.",
+  "note": "",
+  "img": [
+   "Worlds_Greatest_Stretch/0.jpg",
+   "Worlds_Greatest_Stretch/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-012": {
+  "name": "Thread the Needle",
+  "section": "Warm-Up And Mobility",
+  "desc": "On hands and knees, slide one arm under your body to twist your upper back.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-014": {
+  "name": "Wall Slides",
+  "section": "Warm-Up And Mobility",
+  "desc": "Back against a wall, slide your arms up and down like making a snow angel.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-015": {
+  "name": "Arm Circles",
+  "section": "Warm-Up And Mobility",
+  "desc": "Arms out to the sides, draw small then bigger circles.",
+  "note": "",
+  "img": [
+   "Arm_Circles/0.jpg",
+   "Arm_Circles/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-019": {
+  "name": "Bodyweight Squat to Box",
+  "section": "Warm-Up And Mobility",
+  "desc": "Sit back until you lightly touch a box or bench, then stand up.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-020": {
+  "name": "Light Treadmill Walk",
+  "section": "Warm-Up And Mobility",
+  "desc": "Easy walk to raise your heart rate and warm up.",
+  "note": "",
+  "img": [
+   "Walking_Treadmill/0.jpg",
+   "Walking_Treadmill/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-021": {
+  "name": "Light Bike",
+  "section": "Warm-Up And Mobility",
+  "desc": "Easy pedaling with low resistance.",
+  "note": "",
+  "img": [
+   "Bicycling_Stationary/0.jpg",
+   "Bicycling_Stationary/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-022": {
+  "name": "Elliptical, Easy Pace",
+  "section": "Warm-Up And Mobility",
+  "desc": "Smooth gliding motion with arms and legs at a comfortable effort.",
+  "note": "",
+  "img": [
+   "Elliptical_Trainer/0.jpg",
+   "Elliptical_Trainer/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-023": {
+  "name": "Rowing Machine, Easy Pace",
+  "section": "Warm-Up And Mobility",
+  "desc": "Push with your legs, lean back slightly, pull the handle to your ribs, at a light effort.",
+  "note": "",
+  "img": [
+   "Rowing_Stationary/0.jpg",
+   "Rowing_Stationary/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-024": {
+  "name": "Dead Bug",
+  "section": "Core And SI Joint Stability",
+  "desc": "On your back, arms up and knees bent, slowly lower the opposite arm and leg, keep your lower back flat.",
+  "note": "",
+  "img": [
+   "Dead_Bug/0.jpg",
+   "Dead_Bug/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-026": {
+  "name": "Pallof Press",
+  "section": "Core And SI Joint Stability",
+  "desc": "Stand sideways to a cable, press the handle straight out and resist being twisted.",
+  "note": "",
+  "img": [
+   "Pallof_Press/0.jpg",
+   "Pallof_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-028": {
+  "name": "Plank, Forearms",
+  "section": "Core And SI Joint Stability",
+  "desc": "Hold a straight body line on your forearms and toes.",
+  "note": "",
+  "img": [
+   "Plank/0.jpg",
+   "Plank/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-029": {
+  "name": "Plank, Hands",
+  "section": "Core And SI Joint Stability",
+  "desc": "Hold a straight body line on your hands and toes.",
+  "note": "Image shows forearms on the floor. Hold the same straight line with straight arms and hands under your shoulders.",
+  "img": [
+   "Plank/0.jpg",
+   "Plank/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image plus cue",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-030": {
+  "name": "Side Plank",
+  "section": "Core And SI Joint Stability",
+  "desc": "Lie on your side, lift your hips so your body forms a straight line, hold.",
+  "note": "",
+  "img": [
+   "Side_Bridge/0.jpg",
+   "Side_Bridge/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-035": {
+  "name": "Suitcase Carry",
+  "section": "Core And SI Joint Stability",
+  "desc": "Carry one heavy weight in one hand and walk tall without leaning.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-036": {
+  "name": "Farmer's Carry",
+  "section": "Core And SI Joint Stability",
+  "desc": "Carry a heavy weight in each hand and walk tall.",
+  "note": "",
+  "img": [
+   "Farmers_Walk/0.jpg",
+   "Farmers_Walk/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-039": {
+  "name": "Reverse Crunch",
+  "section": "Core And SI Joint Stability",
+  "desc": "On your back, curl your knees toward your chest by lifting your hips slightly.",
+  "note": "",
+  "img": [
+   "Reverse_Crunch/0.jpg",
+   "Reverse_Crunch/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-040": {
+  "name": "Lying Leg Raise, Bent Knee",
+  "section": "Core And SI Joint Stability",
+  "desc": "On your back, lift bent knees up and lower them slowly.",
+  "note": "",
+  "img": [
+   "Bent-Knee_Hip_Raise/0.jpg",
+   "Bent-Knee_Hip_Raise/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-041": {
+  "name": "Hanging Knee Raise",
+  "section": "Core And SI Joint Stability",
+  "desc": "Hang from a bar and pull your knees up toward your chest.",
+  "note": "",
+  "img": [
+   "Hanging_Leg_Raise/0.jpg",
+   "Hanging_Leg_Raise/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-042": {
+  "name": "Hanging Leg Raise",
+  "section": "Core And SI Joint Stability",
+  "desc": "Hang from a bar and lift straight legs up in front of you.",
+  "note": "",
+  "img": [
+   "Hanging_Leg_Raise/0.jpg",
+   "Hanging_Leg_Raise/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Conditional",
+  "hi": ""
+ },
+ "IMF-043": {
+  "name": "Cable Crunch",
+  "section": "Core And SI Joint Stability",
+  "desc": "Kneel at a cable machine, curl your ribs toward your hips.",
+  "note": "",
+  "img": [
+   "Cable_Crunch/0.jpg",
+   "Cable_Crunch/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-044": {
+  "name": "Machine Crunch",
+  "section": "Core And SI Joint Stability",
+  "desc": "Sit in the ab machine and curl forward against the weight.",
+  "note": "",
+  "img": [
+   "Ab_Crunch_Machine/0.jpg",
+   "Ab_Crunch_Machine/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-045": {
+  "name": "Bicycle Crunch",
+  "section": "Core And SI Joint Stability",
+  "desc": "On your back, bring opposite elbow and knee together in a pedaling motion.",
+  "note": "",
+  "img": [
+   "Air_Bike/0.jpg",
+   "Air_Bike/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-046": {
+  "name": "Heel Taps",
+  "section": "Core And SI Joint Stability",
+  "desc": "On your back, knees bent, reach down to tap each heel with the same side hand.",
+  "note": "",
+  "img": [
+   "Alternate_Heel_Touchers/0.jpg",
+   "Alternate_Heel_Touchers/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-047": {
+  "name": "Mountain Climbers",
+  "section": "Core And SI Joint Stability",
+  "desc": "In a push-up position, drive your knees toward your chest quickly, one at a time.",
+  "note": "",
+  "img": [
+   "Mountain_Climbers/0.jpg",
+   "Mountain_Climbers/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": "Yes"
+ },
+ "IMF-048": {
+  "name": "Cable Woodchop, High to Low",
+  "section": "Core And SI Joint Stability",
+  "desc": "Pull a cable from above one shoulder down across your body.",
+  "note": "",
+  "img": [
+   "Standing_Cable_Wood_Chop/0.jpg",
+   "Standing_Cable_Wood_Chop/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-049": {
+  "name": "Cable Woodchop, Low to High",
+  "section": "Core And SI Joint Stability",
+  "desc": "Pull a cable from low by your hip up across your body.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-050": {
+  "name": "Russian Twist",
+  "section": "Core And SI Joint Stability",
+  "desc": "Sit leaning back slightly, rotate your torso side to side.",
+  "note": "",
+  "img": [
+   "Russian_Twist/0.jpg",
+   "Russian_Twist/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Conditional",
+  "hi": ""
+ },
+ "IMF-051": {
+  "name": "Ab Wheel Rollout",
+  "section": "Core And SI Joint Stability",
+  "desc": "Kneel and roll a wheel forward then pull it back.",
+  "note": "",
+  "img": [
+   "Ab_Roller/0.jpg",
+   "Ab_Roller/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-052": {
+  "name": "Sit-Up",
+  "section": "Core And SI Joint Stability",
+  "desc": "Lie on your back, curl all the way up to sitting, then lower down.",
+  "note": "",
+  "img": [
+   "Sit-Up/0.jpg",
+   "Sit-Up/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-054": {
+  "name": "Single-Leg Glute Bridge",
+  "section": "Core And SI Joint Stability",
+  "desc": "Lift your hips with one foot on the floor and the other leg straight.",
+  "note": "",
+  "img": [
+   "Single_Leg_Glute_Bridge/0.jpg",
+   "Single_Leg_Glute_Bridge/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-055": {
+  "name": "Clamshell with Band",
+  "section": "Core And SI Joint Stability",
+  "desc": "Lie on your side, knees bent, band above knees, open the top knee like a clam.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-056": {
+  "name": "Side-Lying Leg Raise",
+  "section": "Core And SI Joint Stability",
+  "desc": "Lie on your side and lift your top leg straight up and down.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-057": {
+  "name": "Fire Hydrant",
+  "section": "Core And SI Joint Stability",
+  "desc": "On hands and knees, lift one bent knee out to the side.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-058": {
+  "name": "Banded Lateral Walk",
+  "section": "Core And SI Joint Stability",
+  "desc": "Band around your thighs, small bent knees, step sideways.",
+  "note": "",
+  "img": [
+   "Monster_Walk/0.jpg",
+   "Monster_Walk/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-059": {
+  "name": "Banded Monster Walk",
+  "section": "Core And SI Joint Stability",
+  "desc": "Band around your thighs, step forward and slightly out in a wide waddle.",
+  "note": "",
+  "img": [
+   "Monster_Walk/0.jpg",
+   "Monster_Walk/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-060": {
+  "name": "Quadruped Hip Extension",
+  "section": "Core And SI Joint Stability",
+  "desc": "On hands and knees, press one foot up toward the ceiling, also called donkey kick.",
+  "note": "",
+  "img": [
+   "Glute_Kickback/0.jpg",
+   "Glute_Kickback/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-061": {
+  "name": "Back Extension, Bodyweight",
+  "section": "Core And SI Joint Stability",
+  "desc": "Face down on a bench, lift your upper body up and lower.",
+  "note": "",
+  "img": [
+   "Hyperextensions_Back_Extensions/0.jpg",
+   "Hyperextensions_Back_Extensions/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-062": {
+  "name": "Superman Hold",
+  "section": "Core And SI Joint Stability",
+  "desc": "Lie face down, lift arms and legs off the floor and hold.",
+  "note": "",
+  "img": [
+   "Superman/0.jpg",
+   "Superman/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-063": {
+  "name": "Goblet Squat",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Hold one weight at your chest, squat down and stand up.",
+  "note": "",
+  "img": [
+   "Goblet_Squat/0.jpg",
+   "Goblet_Squat/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-064": {
+  "name": "Box Squat",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Sit back onto a box or bench with control, then stand up.",
+  "note": "",
+  "img": [
+   "Box_Squat/0.jpg",
+   "Box_Squat/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-065": {
+  "name": "Leg Press",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Sit in the machine, push the platform away with feet in the middle.",
+  "note": "",
+  "img": [
+   "Leg_Press/0.jpg",
+   "Leg_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-068": {
+  "name": "Single-Leg Leg Press",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Push the platform with one leg at a time.",
+  "note": "Image shows both legs. Press with one leg at a time.",
+  "img": [
+   "Leg_Press/0.jpg",
+   "Leg_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image plus cue",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-069": {
+  "name": "Hack Squat Machine",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Shoulders against pads, squat down and up on an angled track.",
+  "note": "",
+  "img": [
+   "Hack_Squat/0.jpg",
+   "Hack_Squat/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-070": {
+  "name": "Smith Machine Squat",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Squat with a bar that slides on fixed rails, bar on your upper back.",
+  "note": "",
+  "img": [
+   "Smith_Machine_Squat/0.jpg",
+   "Smith_Machine_Squat/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-071": {
+  "name": "Smith Machine Split Squat",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "One foot forward, one back, lower and rise using the fixed bar.",
+  "note": "",
+  "img": [
+   "Smith_Single-Leg_Split_Squat/0.jpg",
+   "Smith_Single-Leg_Split_Squat/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-072": {
+  "name": "Bulgarian Split Squat, Controlled Depth",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Back foot on a bench, lower your front leg only as far as you can stay in control.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-073": {
+  "name": "Split Squat, Stationary",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Feet in a long stance, lower straight down and up without stepping.",
+  "note": "",
+  "img": [
+   "Split_Squats/0.jpg",
+   "Split_Squats/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-074": {
+  "name": "Reverse Lunge, Upright Torso",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Step backward, lower your knee, keep your chest tall.",
+  "note": "",
+  "img": [
+   "Dumbbell_Rear_Lunge/0.jpg",
+   "Dumbbell_Rear_Lunge/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-075": {
+  "name": "Walking Lunge, Short Step",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Take small steps forward, lowering a little each time.",
+  "note": "",
+  "img": [
+   "Bodyweight_Walking_Lunge/0.jpg",
+   "Bodyweight_Walking_Lunge/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-076": {
+  "name": "Step-Up to Box",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Step onto a box with one foot, stand tall, step back down.",
+  "note": "",
+  "img": [
+   "Dumbbell_Step_Ups/0.jpg",
+   "Dumbbell_Step_Ups/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-077": {
+  "name": "Lateral Step-Up",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Stand beside a box, step up sideways, stand, lower back down.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-078": {
+  "name": "Lateral Lunge",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Step wide to one side, sit back into that hip, push back to center.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-079": {
+  "name": "Curtsy Lunge",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Step one foot behind and across, like a curtsy, then stand up.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-081": {
+  "name": "Wall Sit",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Back against a wall, thighs level with the floor, hold still.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Text only",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-082": {
+  "name": "Leg Extension",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Sit in the machine and straighten your knees against the pad.",
+  "note": "",
+  "img": [
+   "Leg_Extensions/0.jpg",
+   "Leg_Extensions/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-083": {
+  "name": "Single-Leg Leg Extension",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Straighten one knee at a time on the machine.",
+  "note": "",
+  "img": [
+   "Single-Leg_Leg_Extension/0.jpg",
+   "Single-Leg_Leg_Extension/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-084": {
+  "name": "Barbell Back Squat",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Bar on your upper back, squat down and stand up.",
+  "note": "",
+  "img": [
+   "Barbell_Squat/0.jpg",
+   "Barbell_Squat/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-085": {
+  "name": "Barbell Front Squat",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Bar resting on the front of your shoulders, squat down and stand up.",
+  "note": "",
+  "img": [
+   "Front_Barbell_Squat/0.jpg",
+   "Front_Barbell_Squat/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-086": {
+  "name": "Overhead Squat",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Hold a bar straight overhead while squatting.",
+  "note": "",
+  "img": [
+   "Overhead_Squat/0.jpg",
+   "Overhead_Squat/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-087": {
+  "name": "Jump Squat",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Squat down, then jump up explosively and land softly.",
+  "note": "",
+  "img": [
+   "Freehand_Jump_Squat/0.jpg",
+   "Freehand_Jump_Squat/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": "Yes"
+ },
+ "IMF-088": {
+  "name": "Box Jump",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Jump from the floor onto a sturdy box and step down.",
+  "note": "",
+  "img": [
+   "Front_Box_Jump/0.jpg",
+   "Front_Box_Jump/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": "Yes"
+ },
+ "IMF-089": {
+  "name": "Pistol Squat to Box",
+  "section": "Legs: Squat And Push Patterns",
+  "desc": "Squat on one leg down to a box, other leg held out front.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-090": {
+  "name": "Glute Bridge",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "On your back, knees bent, lift your hips by squeezing your glutes.",
+  "note": "",
+  "img": [
+   "Butt_Lift_Bridge/0.jpg",
+   "Butt_Lift_Bridge/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-091": {
+  "name": "Barbell Glute Bridge",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Same bridge with a bar resting across your hips.",
+  "note": "",
+  "img": [
+   "Barbell_Glute_Bridge/0.jpg",
+   "Barbell_Glute_Bridge/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-092": {
+  "name": "Hip Thrust, Machine",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Back on a pad, drive your hips up against the machine's resistance.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-093": {
+  "name": "Hip Thrust, Barbell",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Upper back on a bench, bar across your hips, drive hips up.",
+  "note": "",
+  "img": [
+   "Barbell_Hip_Thrust/0.jpg",
+   "Barbell_Hip_Thrust/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-095": {
+  "name": "Cable Pull-Through",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Face away from a cable, hinge your hips back, then squeeze your glutes to stand tall.",
+  "note": "",
+  "img": [
+   "Pull_Through/0.jpg",
+   "Pull_Through/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-096": {
+  "name": "Cable Kickback",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Ankle strap on a cable, kick one leg straight back.",
+  "note": "",
+  "img": [
+   "One-Legged_Cable_Kickback/0.jpg",
+   "One-Legged_Cable_Kickback/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-097": {
+  "name": "Machine Glute Kickback",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Press one foot back against a pad on the kickback machine.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-098": {
+  "name": "Seated Leg Curl",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Sit in the machine and pull the pad down by bending your knees.",
+  "note": "",
+  "img": [
+   "Seated_Leg_Curl/0.jpg",
+   "Seated_Leg_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-099": {
+  "name": "Lying Leg Curl",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Lie face down and curl the pad toward your glutes.",
+  "note": "",
+  "img": [
+   "Lying_Leg_Curls/0.jpg",
+   "Lying_Leg_Curls/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-100": {
+  "name": "Standing Single-Leg Curl",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Stand and curl one heel toward your glute on the machine.",
+  "note": "",
+  "img": [
+   "Standing_Leg_Curl/0.jpg",
+   "Standing_Leg_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-101": {
+  "name": "Stability Ball Leg Curl",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "On your back, heels on a ball, lift hips and roll the ball in.",
+  "note": "",
+  "img": [
+   "Ball_Leg_Curl/0.jpg",
+   "Ball_Leg_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-102": {
+  "name": "Slider Leg Curl",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "On your back, heels on sliders, lift hips and slide your heels in and out.",
+  "note": "Lift your hips off the floor and keep them up as your heels slide out and in.",
+  "img": [
+   "Platform_Hamstring_Slides/0.jpg",
+   "Platform_Hamstring_Slides/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image plus cue",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-105": {
+  "name": "Reverse Hyperextension",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Lie face down on a pad, swing your legs up and back.",
+  "note": "",
+  "img": [
+   "Reverse_Hyperextension/0.jpg",
+   "Reverse_Hyperextension/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-106": {
+  "name": "Romanian Deadlift with Dumbbells",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Straight-leg deadlift keeping your back flat, weights slide down your thighs.",
+  "note": "",
+  "img": [
+   "Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+   "Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-107": {
+  "name": "Romanian Deadlift with Barbell",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Same movement with a bar.",
+  "note": "",
+  "img": [
+   "Romanian_Deadlift/0.jpg",
+   "Romanian_Deadlift/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-108": {
+  "name": "Single-Leg Romanian Deadlift",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Balance on one leg, hinge forward with the other leg reaching back.",
+  "note": "",
+  "img": [
+   "Kettlebell_One-Legged_Deadlift/0.jpg",
+   "Kettlebell_One-Legged_Deadlift/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-109": {
+  "name": "Conventional Deadlift",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Lift a bar from the floor to standing.",
+  "note": "",
+  "img": [
+   "Barbell_Deadlift/0.jpg",
+   "Barbell_Deadlift/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-110": {
+  "name": "Sumo Deadlift",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Lift a bar from the floor with a wide stance and hands inside the knees.",
+  "note": "",
+  "img": [
+   "Sumo_Deadlift/0.jpg",
+   "Sumo_Deadlift/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-111": {
+  "name": "Trap Bar Deadlift",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Stand inside a hexagon bar, lift it by standing up.",
+  "note": "",
+  "img": [
+   "Trap_Bar_Deadlift/0.jpg",
+   "Trap_Bar_Deadlift/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-112": {
+  "name": "Good Morning",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Bar on your back, bow forward at the hips, then stand up.",
+  "note": "",
+  "img": [
+   "Good_Morning/0.jpg",
+   "Good_Morning/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-113": {
+  "name": "Kettlebell Swing",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Swing a kettlebell from between your legs up to chest height by snapping your hips.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "Yes",
+  "hi": "Yes"
+ },
+ "IMF-114": {
+  "name": "Hip Abduction Machine",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Sit and push your knees apart against pads.",
+  "note": "",
+  "img": [
+   "Thigh_Abductor/0.jpg",
+   "Thigh_Abductor/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-115": {
+  "name": "Hip Adduction Machine",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Sit and squeeze your knees together against pads.",
+  "note": "",
+  "img": [
+   "Thigh_Adductor/0.jpg",
+   "Thigh_Adductor/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-116": {
+  "name": "Cable Hip Abduction",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Ankle strap on a cable, lift your leg out to the side.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-117": {
+  "name": "Cable Hip Adduction",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Ankle strap on a cable, pull your leg across in front of the other.",
+  "note": "",
+  "img": [
+   "Cable_Hip_Adduction/0.jpg",
+   "Cable_Hip_Adduction/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-118": {
+  "name": "Standing Calf Raise",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Stand and rise up onto your toes, then lower.",
+  "note": "",
+  "img": [
+   "Standing_Calf_Raises/0.jpg",
+   "Standing_Calf_Raises/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-119": {
+  "name": "Seated Calf Raise",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "Sit with weight on your knees, rise onto your toes.",
+  "note": "",
+  "img": [
+   "Seated_Calf_Raise/0.jpg",
+   "Seated_Calf_Raise/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-120": {
+  "name": "Leg Press Calf Raise",
+  "section": "Legs: Hip And Back-Of-Leg Patterns",
+  "desc": "On the leg press, push the platform with only your toes.",
+  "note": "",
+  "img": [
+   "Calf_Press_On_The_Leg_Press_Machine/0.jpg",
+   "Calf_Press_On_The_Leg_Press_Machine/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-123": {
+  "name": "Dumbbell Bench Press, Flat",
+  "section": "Chest",
+  "desc": "Lie on a bench, press two dumbbells up from chest level.",
+  "note": "",
+  "img": [
+   "Dumbbell_Bench_Press/0.jpg",
+   "Dumbbell_Bench_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-124": {
+  "name": "Dumbbell Bench Press, Incline",
+  "section": "Chest",
+  "desc": "Same press on a bench tilted up, works upper chest.",
+  "note": "",
+  "img": [
+   "Incline_Dumbbell_Press/0.jpg",
+   "Incline_Dumbbell_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-125": {
+  "name": "Dumbbell Bench Press, Decline",
+  "section": "Chest",
+  "desc": "Same press on a bench tilted down, works lower chest.",
+  "note": "",
+  "img": [
+   "Decline_Dumbbell_Bench_Press/0.jpg",
+   "Decline_Dumbbell_Bench_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-126": {
+  "name": "Barbell Bench Press, Flat",
+  "section": "Chest",
+  "desc": "Lie on a bench, lower a bar to your chest and press it up.",
+  "note": "",
+  "img": [
+   "Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+   "Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-127": {
+  "name": "Barbell Bench Press, Incline",
+  "section": "Chest",
+  "desc": "Same with the bench tilted up.",
+  "note": "",
+  "img": [
+   "Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+   "Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-128": {
+  "name": "Machine Chest Press",
+  "section": "Chest",
+  "desc": "Sit and push two handles forward.",
+  "note": "",
+  "img": [
+   "Machine_Bench_Press/0.jpg",
+   "Machine_Bench_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-129": {
+  "name": "Machine Incline Press",
+  "section": "Chest",
+  "desc": "Sit and push handles forward and upward.",
+  "note": "",
+  "img": [
+   "Leverage_Incline_Chest_Press/0.jpg",
+   "Leverage_Incline_Chest_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-130": {
+  "name": "Smith Machine Bench Press",
+  "section": "Chest",
+  "desc": "Bench press with a bar on fixed rails.",
+  "note": "",
+  "img": [
+   "Smith_Machine_Bench_Press/0.jpg",
+   "Smith_Machine_Bench_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-131": {
+  "name": "Smith Machine Incline Press",
+  "section": "Chest",
+  "desc": "Incline bench press with a bar on fixed rails.",
+  "note": "",
+  "img": [
+   "Smith_Machine_Incline_Bench_Press/0.jpg",
+   "Smith_Machine_Incline_Bench_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-132": {
+  "name": "Push-Up",
+  "section": "Chest",
+  "desc": "Hands on the floor, lower your chest down and push back up.",
+  "note": "",
+  "img": [
+   "Pushups/0.jpg",
+   "Pushups/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-133": {
+  "name": "Push-Up, Incline",
+  "section": "Chest",
+  "desc": "Hands on a bench or bar, easier version.",
+  "note": "",
+  "img": [
+   "Incline_Push-Up/0.jpg",
+   "Incline_Push-Up/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-134": {
+  "name": "Push-Up, Decline",
+  "section": "Chest",
+  "desc": "Feet on a bench, harder version.",
+  "note": "",
+  "img": [
+   "Decline_Push-Up/0.jpg",
+   "Decline_Push-Up/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-135": {
+  "name": "Push-Up, Knees",
+  "section": "Chest",
+  "desc": "Push-up with your knees on the floor.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-137": {
+  "name": "Dumbbell Fly, Flat",
+  "section": "Chest",
+  "desc": "Lie on a bench, open your arms wide with a slight bend, then bring the weights together.",
+  "note": "",
+  "img": [
+   "Dumbbell_Flyes/0.jpg",
+   "Dumbbell_Flyes/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-138": {
+  "name": "Dumbbell Fly, Incline",
+  "section": "Chest",
+  "desc": "Same fly on an inclined bench.",
+  "note": "",
+  "img": [
+   "Incline_Dumbbell_Flyes/0.jpg",
+   "Incline_Dumbbell_Flyes/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-139": {
+  "name": "Cable Crossover, High to Low",
+  "section": "Chest",
+  "desc": "Pull cable handles from above down and together in front of your hips.",
+  "note": "",
+  "img": [
+   "Cable_Crossover/0.jpg",
+   "Cable_Crossover/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-140": {
+  "name": "Cable Crossover, Low to High",
+  "section": "Chest",
+  "desc": "Pull cable handles from low up and together in front of your chest.",
+  "note": "",
+  "img": [
+   "Low_Cable_Crossover/0.jpg",
+   "Low_Cable_Crossover/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-141": {
+  "name": "Cable Crossover, Mid",
+  "section": "Chest",
+  "desc": "Pull cable handles from shoulder height together in front of you.",
+  "note": "Image shows the pulleys set high. Set them at shoulder height for this version.",
+  "img": [
+   "Cable_Crossover/0.jpg",
+   "Cable_Crossover/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image plus cue",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-142": {
+  "name": "Pec Deck Machine",
+  "section": "Chest",
+  "desc": "Sit and bring two arms together in front of your chest.",
+  "note": "",
+  "img": [
+   "Butterfly/0.jpg",
+   "Butterfly/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-143": {
+  "name": "Single-Arm Cable Press",
+  "section": "Chest",
+  "desc": "Press one cable handle forward at a time.",
+  "note": "Image shows both arms. Press one handle at a time.",
+  "img": [
+   "Standing_Cable_Chest_Press/0.jpg",
+   "Standing_Cable_Chest_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image plus cue",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-144": {
+  "name": "Landmine Press",
+  "section": "Chest",
+  "desc": "Press the end of an anchored bar up and forward.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-145": {
+  "name": "Dumbbell Pullover",
+  "section": "Chest",
+  "desc": "Lie on a bench, move one dumbbell in an arc from over your chest to behind your head.",
+  "note": "",
+  "img": [
+   "Straight-Arm_Dumbbell_Pullover/0.jpg",
+   "Straight-Arm_Dumbbell_Pullover/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-146": {
+  "name": "Svend Press",
+  "section": "Chest",
+  "desc": "Squeeze two plates together at your chest and press them straight out.",
+  "note": "",
+  "img": [
+   "Svend_Press/0.jpg",
+   "Svend_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-147": {
+  "name": "Dips, Chest Lean",
+  "section": "Chest",
+  "desc": "On parallel bars, lean forward and lower yourself, then push up.",
+  "note": "",
+  "img": [
+   "Dips_-_Chest_Version/0.jpg",
+   "Dips_-_Chest_Version/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-148": {
+  "name": "Floor Press with Dumbbells",
+  "section": "Chest",
+  "desc": "Lie on the floor, press dumbbells up, elbows stop when they touch the floor.",
+  "note": "",
+  "img": [
+   "Dumbbell_Floor_Press/0.jpg",
+   "Dumbbell_Floor_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-149": {
+  "name": "Lat Pulldown, Wide Grip",
+  "section": "Back",
+  "desc": "Sit and pull a bar down to your upper chest with hands wide.",
+  "note": "",
+  "img": [
+   "Wide-Grip_Lat_Pulldown/0.jpg",
+   "Wide-Grip_Lat_Pulldown/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-150": {
+  "name": "Lat Pulldown, Close Grip",
+  "section": "Back",
+  "desc": "Same pulldown with hands closer together.",
+  "note": "",
+  "img": [
+   "Close-Grip_Front_Lat_Pulldown/0.jpg",
+   "Close-Grip_Front_Lat_Pulldown/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-151": {
+  "name": "Lat Pulldown, Neutral Grip",
+  "section": "Back",
+  "desc": "Pull down with palms facing each other.",
+  "note": "",
+  "img": [
+   "V-Bar_Pulldown/0.jpg",
+   "V-Bar_Pulldown/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-152": {
+  "name": "Single-Arm Lat Pulldown",
+  "section": "Back",
+  "desc": "Pull one handle down at a time.",
+  "note": "",
+  "img": [
+   "One_Arm_Lat_Pulldown/0.jpg",
+   "One_Arm_Lat_Pulldown/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-153": {
+  "name": "Straight-Arm Pulldown",
+  "section": "Back",
+  "desc": "Stand at a cable, keep arms nearly straight, sweep the bar down to your thighs.",
+  "note": "",
+  "img": [
+   "Straight-Arm_Pulldown/0.jpg",
+   "Straight-Arm_Pulldown/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-154": {
+  "name": "Pull-Up",
+  "section": "Back",
+  "desc": "Hang from a bar with palms facing away, pull your chin over the bar.",
+  "note": "",
+  "img": [
+   "Pullups/0.jpg",
+   "Pullups/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-155": {
+  "name": "Chin-Up",
+  "section": "Back",
+  "desc": "Hang from a bar with palms facing you, pull your chin over the bar.",
+  "note": "",
+  "img": [
+   "Chin-Up/0.jpg",
+   "Chin-Up/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-156": {
+  "name": "Assisted Pull-Up Machine",
+  "section": "Back",
+  "desc": "Pull-up with the machine taking some of your body weight.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-157": {
+  "name": "Seated Cable Row, Close Grip",
+  "section": "Back",
+  "desc": "Sit and pull a close handle to your stomach.",
+  "note": "",
+  "img": [
+   "Seated_Cable_Rows/0.jpg",
+   "Seated_Cable_Rows/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-158": {
+  "name": "Seated Cable Row, Wide Grip",
+  "section": "Back",
+  "desc": "Sit and pull a wide bar to your lower chest.",
+  "note": "Image shows the V-bar. Use a wide straight bar instead.",
+  "img": [
+   "Seated_Cable_Rows/0.jpg",
+   "Seated_Cable_Rows/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image plus cue",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-159": {
+  "name": "Chest-Supported Row Machine",
+  "section": "Back",
+  "desc": "Chest against a pad, pull handles back.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-160": {
+  "name": "Chest-Supported Dumbbell Row",
+  "section": "Back",
+  "desc": "Lie chest down on an incline bench, row dumbbells up.",
+  "note": "",
+  "img": [
+   "Dumbbell_Incline_Row/0.jpg",
+   "Dumbbell_Incline_Row/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-161": {
+  "name": "Single-Arm Dumbbell Row, Hand on Bench",
+  "section": "Back",
+  "desc": "One hand on a bench, row a dumbbell up to your hip.",
+  "note": "",
+  "img": [
+   "One-Arm_Dumbbell_Row/0.jpg",
+   "One-Arm_Dumbbell_Row/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-162": {
+  "name": "Single-Arm Cable Row",
+  "section": "Back",
+  "desc": "Pull one cable handle toward your ribs.",
+  "note": "",
+  "img": [
+   "Seated_One-arm_Cable_Pulley_Rows/0.jpg",
+   "Seated_One-arm_Cable_Pulley_Rows/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-163": {
+  "name": "T-Bar Row, Chest Supported",
+  "section": "Back",
+  "desc": "Chest on a pad, row a weighted bar toward you.",
+  "note": "",
+  "img": [
+   "Lying_T-Bar_Row/0.jpg",
+   "Lying_T-Bar_Row/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-165": {
+  "name": "Machine Row, Neutral Grip",
+  "section": "Back",
+  "desc": "Pull the handles back with elbows close to your sides.",
+  "note": "",
+  "img": [
+   "Leverage_Iso_Row/0.jpg",
+   "Leverage_Iso_Row/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-166": {
+  "name": "Inverted Row",
+  "section": "Back",
+  "desc": "Hang under a low bar, body straight, pull your chest to the bar.",
+  "note": "",
+  "img": [
+   "Inverted_Row/0.jpg",
+   "Inverted_Row/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-168": {
+  "name": "Bent-Over Barbell Row",
+  "section": "Back",
+  "desc": "Hinge forward and row a bar to your stomach.",
+  "note": "",
+  "img": [
+   "Bent_Over_Barbell_Row/0.jpg",
+   "Bent_Over_Barbell_Row/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-169": {
+  "name": "Bent-Over Dumbbell Row",
+  "section": "Back",
+  "desc": "Hinge forward and row dumbbells up.",
+  "note": "",
+  "img": [
+   "Bent_Over_Two-Dumbbell_Row/0.jpg",
+   "Bent_Over_Two-Dumbbell_Row/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-171": {
+  "name": "Meadows Row",
+  "section": "Back",
+  "desc": "One end of a bar anchored, stand sideways and row the free end up.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-172": {
+  "name": "Face Pull",
+  "section": "Back",
+  "desc": "Pull a rope to your face with elbows high, squeezing the upper back.",
+  "note": "",
+  "img": [
+   "Face_Pull/0.jpg",
+   "Face_Pull/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-173": {
+  "name": "Reverse Pec Deck",
+  "section": "Back",
+  "desc": "Sit facing the pad and swing your arms back and apart.",
+  "note": "",
+  "img": [
+   "Reverse_Machine_Flyes/0.jpg",
+   "Reverse_Machine_Flyes/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-174": {
+  "name": "Rear Delt Cable Fly",
+  "section": "Back",
+  "desc": "Cross cables and pull them apart to work the back of your shoulders.",
+  "note": "",
+  "img": [
+   "Cable_Rear_Delt_Fly/0.jpg",
+   "Cable_Rear_Delt_Fly/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-175": {
+  "name": "Dumbbell Reverse Fly, Chest Supported",
+  "section": "Back",
+  "desc": "Lie chest down on an incline bench, raise dumbbells out to the sides.",
+  "note": "",
+  "img": [
+   "Reverse_Flyes/0.jpg",
+   "Reverse_Flyes/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-176": {
+  "name": "Shrug, Dumbbell",
+  "section": "Back",
+  "desc": "Hold dumbbells at your sides and lift your shoulders toward your ears.",
+  "note": "",
+  "img": [
+   "Dumbbell_Shrug/0.jpg",
+   "Dumbbell_Shrug/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-177": {
+  "name": "Shrug, Machine",
+  "section": "Back",
+  "desc": "Lift your shoulders up against the machine's weight.",
+  "note": "",
+  "img": [
+   "Leverage_Shrug/0.jpg",
+   "Leverage_Shrug/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-181": {
+  "name": "Dumbbell Shoulder Press, Seated",
+  "section": "Shoulders",
+  "desc": "Sit with back support, press dumbbells overhead.",
+  "note": "",
+  "img": [
+   "Seated_Dumbbell_Press/0.jpg",
+   "Seated_Dumbbell_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-182": {
+  "name": "Dumbbell Shoulder Press, Standing",
+  "section": "Shoulders",
+  "desc": "Stand and press dumbbells overhead.",
+  "note": "",
+  "img": [
+   "Standing_Dumbbell_Press/0.jpg",
+   "Standing_Dumbbell_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Conditional",
+  "hi": ""
+ },
+ "IMF-183": {
+  "name": "Machine Shoulder Press",
+  "section": "Shoulders",
+  "desc": "Sit and push the handles overhead.",
+  "note": "",
+  "img": [
+   "Machine_Shoulder_Military_Press/0.jpg",
+   "Machine_Shoulder_Military_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-184": {
+  "name": "Barbell Overhead Press",
+  "section": "Shoulders",
+  "desc": "Press a bar from your shoulders to overhead.",
+  "note": "",
+  "img": [
+   "Barbell_Shoulder_Press/0.jpg",
+   "Barbell_Shoulder_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "Yes",
+  "hi": ""
+ },
+ "IMF-185": {
+  "name": "Smith Machine Shoulder Press",
+  "section": "Shoulders",
+  "desc": "Press a bar overhead on fixed rails.",
+  "note": "",
+  "img": [
+   "Smith_Machine_Overhead_Shoulder_Press/0.jpg",
+   "Smith_Machine_Overhead_Shoulder_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-186": {
+  "name": "Arnold Press",
+  "section": "Shoulders",
+  "desc": "Start with palms facing you, rotate them forward as you press overhead.",
+  "note": "",
+  "img": [
+   "Arnold_Dumbbell_Press/0.jpg",
+   "Arnold_Dumbbell_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-188": {
+  "name": "Dumbbell Lateral Raise",
+  "section": "Shoulders",
+  "desc": "Lift dumbbells out to your sides to shoulder height.",
+  "note": "",
+  "img": [
+   "Side_Lateral_Raise/0.jpg",
+   "Side_Lateral_Raise/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-189": {
+  "name": "Cable Lateral Raise",
+  "section": "Shoulders",
+  "desc": "Lift a cable handle out to your side to shoulder height.",
+  "note": "Image shows a seated version. Stand tall and lift one handle out to your side.",
+  "img": [
+   "Cable_Seated_Lateral_Raise/0.jpg",
+   "Cable_Seated_Lateral_Raise/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image plus cue",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-190": {
+  "name": "Machine Lateral Raise",
+  "section": "Shoulders",
+  "desc": "Push your arms out to the sides against pads.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-192": {
+  "name": "Dumbbell Front Raise",
+  "section": "Shoulders",
+  "desc": "Lift dumbbells straight in front to shoulder height.",
+  "note": "",
+  "img": [
+   "Front_Dumbbell_Raise/0.jpg",
+   "Front_Dumbbell_Raise/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-193": {
+  "name": "Cable Front Raise",
+  "section": "Shoulders",
+  "desc": "Lift a cable handle straight in front to shoulder height.",
+  "note": "",
+  "img": [
+   "Front_Cable_Raise/0.jpg",
+   "Front_Cable_Raise/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-194": {
+  "name": "Plate Front Raise",
+  "section": "Shoulders",
+  "desc": "Hold a weight plate and lift it in front to shoulder height.",
+  "note": "",
+  "img": [
+   "Front_Plate_Raise/0.jpg",
+   "Front_Plate_Raise/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-195": {
+  "name": "Upright Row, Wide Grip",
+  "section": "Shoulders",
+  "desc": "Pull a bar up toward your chest with hands wide and elbows leading.",
+  "note": "Image shows a grip near shoulder width. Hold the bar wider than your shoulders for this version.",
+  "img": [
+   "Upright_Barbell_Row/0.jpg",
+   "Upright_Barbell_Row/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image plus cue",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-197": {
+  "name": "Band Pull-Apart",
+  "section": "Shoulders",
+  "desc": "Hold a band in front and pull it apart.",
+  "note": "",
+  "img": [
+   "Band_Pull_Apart/0.jpg",
+   "Band_Pull_Apart/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-198": {
+  "name": "Cuban Press",
+  "section": "Shoulders",
+  "desc": "Pull weights up like an upright row, rotate them forward, then press overhead.",
+  "note": "",
+  "img": [
+   "Cuban_Press/0.jpg",
+   "Cuban_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-199": {
+  "name": "External Rotation, Cable",
+  "section": "Shoulders",
+  "desc": "Elbow at your side, rotate your forearm outward against a cable.",
+  "note": "",
+  "img": [
+   "External_Rotation_with_Cable/0.jpg",
+   "External_Rotation_with_Cable/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-200": {
+  "name": "External Rotation, Dumbbell Side-Lying",
+  "section": "Shoulders",
+  "desc": "Lie on your side, rotate a light dumbbell upward from your belly.",
+  "note": "",
+  "img": [
+   "External_Rotation/0.jpg",
+   "External_Rotation/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-203": {
+  "name": "Dumbbell Curl, Standing",
+  "section": "Biceps",
+  "desc": "Stand, bend your elbows to lift dumbbells toward your shoulders.",
+  "note": "",
+  "img": [
+   "Dumbbell_Bicep_Curl/0.jpg",
+   "Dumbbell_Bicep_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-204": {
+  "name": "Dumbbell Curl, Seated",
+  "section": "Biceps",
+  "desc": "Same curl while sitting on a bench.",
+  "note": "",
+  "img": [
+   "Seated_Dumbbell_Curl/0.jpg",
+   "Seated_Dumbbell_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-205": {
+  "name": "Alternating Dumbbell Curl",
+  "section": "Biceps",
+  "desc": "Curl one arm at a time.",
+  "note": "",
+  "img": [
+   "Dumbbell_Alternate_Bicep_Curl/0.jpg",
+   "Dumbbell_Alternate_Bicep_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-206": {
+  "name": "Hammer Curl",
+  "section": "Biceps",
+  "desc": "Curl with palms facing each other, like holding a hammer.",
+  "note": "",
+  "img": [
+   "Hammer_Curls/0.jpg",
+   "Hammer_Curls/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-207": {
+  "name": "Cross-Body Hammer Curl",
+  "section": "Biceps",
+  "desc": "Curl the dumbbell across your chest toward the opposite shoulder.",
+  "note": "",
+  "img": [
+   "Cross_Body_Hammer_Curl/0.jpg",
+   "Cross_Body_Hammer_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-208": {
+  "name": "Incline Dumbbell Curl",
+  "section": "Biceps",
+  "desc": "Sit on a tilted bench with arms hanging behind you, curl up.",
+  "note": "",
+  "img": [
+   "Incline_Dumbbell_Curl/0.jpg",
+   "Incline_Dumbbell_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-209": {
+  "name": "Concentration Curl",
+  "section": "Biceps",
+  "desc": "Sit, elbow braced on your inner thigh, curl one dumbbell.",
+  "note": "",
+  "img": [
+   "Concentration_Curls/0.jpg",
+   "Concentration_Curls/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-210": {
+  "name": "Preacher Curl, Machine",
+  "section": "Biceps",
+  "desc": "Arms on a sloped pad, curl the handles up.",
+  "note": "",
+  "img": [
+   "Machine_Preacher_Curls/0.jpg",
+   "Machine_Preacher_Curls/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-211": {
+  "name": "Preacher Curl, Dumbbell",
+  "section": "Biceps",
+  "desc": "Arm on a sloped pad, curl a dumbbell up.",
+  "note": "",
+  "img": [
+   "One_Arm_Dumbbell_Preacher_Curl/0.jpg",
+   "One_Arm_Dumbbell_Preacher_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-212": {
+  "name": "Barbell Curl",
+  "section": "Biceps",
+  "desc": "Curl a straight bar up toward your chest.",
+  "note": "",
+  "img": [
+   "Barbell_Curl/0.jpg",
+   "Barbell_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-213": {
+  "name": "EZ-Bar Curl",
+  "section": "Biceps",
+  "desc": "Curl a wavy bar that is easier on the wrists.",
+  "note": "",
+  "img": [
+   "EZ-Bar_Curl/0.jpg",
+   "EZ-Bar_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-214": {
+  "name": "Cable Curl, Straight Bar",
+  "section": "Biceps",
+  "desc": "Curl a bar attached to a low cable.",
+  "note": "",
+  "img": [
+   "Standing_Biceps_Cable_Curl/0.jpg",
+   "Standing_Biceps_Cable_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-215": {
+  "name": "Cable Curl, Rope",
+  "section": "Biceps",
+  "desc": "Curl a rope attached to a low cable.",
+  "note": "",
+  "img": [
+   "Cable_Hammer_Curls_-_Rope_Attachment/0.jpg",
+   "Cable_Hammer_Curls_-_Rope_Attachment/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-216": {
+  "name": "Single-Arm Cable Curl",
+  "section": "Biceps",
+  "desc": "Curl one cable handle at a time.",
+  "note": "",
+  "img": [
+   "Standing_One-Arm_Cable_Curl/0.jpg",
+   "Standing_One-Arm_Cable_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-217": {
+  "name": "Spider Curl",
+  "section": "Biceps",
+  "desc": "Lie chest down on an incline bench, arms hanging, curl up.",
+  "note": "",
+  "img": [
+   "Spider_Curl/0.jpg",
+   "Spider_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-219": {
+  "name": "Reverse Curl",
+  "section": "Biceps",
+  "desc": "Curl with palms facing down.",
+  "note": "",
+  "img": [
+   "Reverse_Barbell_Curl/0.jpg",
+   "Reverse_Barbell_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-220": {
+  "name": "Zottman Curl",
+  "section": "Biceps",
+  "desc": "Curl up with palms up, turn palms down, lower slowly.",
+  "note": "",
+  "img": [
+   "Zottman_Curl/0.jpg",
+   "Zottman_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-221": {
+  "name": "Resistance Band Curl",
+  "section": "Biceps",
+  "desc": "Stand on a band and curl the handles up.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-222": {
+  "name": "Cable Pushdown, Straight Bar",
+  "section": "Triceps",
+  "desc": "Push a bar down from chest height until your arms are straight.",
+  "note": "",
+  "img": [
+   "Triceps_Pushdown/0.jpg",
+   "Triceps_Pushdown/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-223": {
+  "name": "Cable Pushdown, Rope",
+  "section": "Triceps",
+  "desc": "Push a rope down and spread the ends apart at the bottom.",
+  "note": "",
+  "img": [
+   "Triceps_Pushdown_-_Rope_Attachment/0.jpg",
+   "Triceps_Pushdown_-_Rope_Attachment/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-224": {
+  "name": "Cable Pushdown, V-Bar",
+  "section": "Triceps",
+  "desc": "Push a V-shaped handle down until your arms are straight.",
+  "note": "",
+  "img": [
+   "Triceps_Pushdown_-_V-Bar_Attachment/0.jpg",
+   "Triceps_Pushdown_-_V-Bar_Attachment/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-225": {
+  "name": "Single-Arm Cable Pushdown",
+  "section": "Triceps",
+  "desc": "Push one handle down at a time.",
+  "note": "Image shows an underhand grip on one arm. Push one handle down at a time until your arm is straight.",
+  "img": [
+   "Cable_One_Arm_Tricep_Extension/0.jpg",
+   "Cable_One_Arm_Tricep_Extension/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image plus cue",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-226": {
+  "name": "Overhead Cable Extension, Rope",
+  "section": "Triceps",
+  "desc": "Face away from a cable, straighten your arms overhead.",
+  "note": "",
+  "img": [
+   "Cable_Rope_Overhead_Triceps_Extension/0.jpg",
+   "Cable_Rope_Overhead_Triceps_Extension/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-227": {
+  "name": "Overhead Dumbbell Extension",
+  "section": "Triceps",
+  "desc": "Hold one dumbbell overhead, lower it behind your head, then straighten your arms.",
+  "note": "",
+  "img": [
+   "Standing_Dumbbell_Triceps_Extension/0.jpg",
+   "Standing_Dumbbell_Triceps_Extension/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-228": {
+  "name": "Skull Crusher with EZ-Bar",
+  "section": "Triceps",
+  "desc": "Lie on a bench, lower a bar toward your forehead, then straighten arms.",
+  "note": "",
+  "img": [
+   "EZ-Bar_Skullcrusher/0.jpg",
+   "EZ-Bar_Skullcrusher/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-229": {
+  "name": "Skull Crusher with Dumbbells",
+  "section": "Triceps",
+  "desc": "Same movement with two dumbbells.",
+  "note": "",
+  "img": [
+   "Lying_Dumbbell_Tricep_Extension/0.jpg",
+   "Lying_Dumbbell_Tricep_Extension/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-230": {
+  "name": "Dumbbell Kickback",
+  "section": "Triceps",
+  "desc": "Hinge forward, elbow at your side, straighten your arm behind you.",
+  "note": "",
+  "img": [
+   "Tricep_Dumbbell_Kickback/0.jpg",
+   "Tricep_Dumbbell_Kickback/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-231": {
+  "name": "Cable Kickback, Triceps",
+  "section": "Triceps",
+  "desc": "Same kickback using a cable.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-232": {
+  "name": "Close-Grip Push-Up",
+  "section": "Triceps",
+  "desc": "Push-up with hands close together under your chest.",
+  "note": "",
+  "img": [
+   "Push-Ups_-_Close_Triceps_Position/0.jpg",
+   "Push-Ups_-_Close_Triceps_Position/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-233": {
+  "name": "Close-Grip Bench Press",
+  "section": "Triceps",
+  "desc": "Bench press with hands closer than shoulder width.",
+  "note": "",
+  "img": [
+   "Close-Grip_Barbell_Bench_Press/0.jpg",
+   "Close-Grip_Barbell_Bench_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-234": {
+  "name": "Bench Dip",
+  "section": "Triceps",
+  "desc": "Hands on a bench behind you, lower your body down and press up.",
+  "note": "",
+  "img": [
+   "Bench_Dips/0.jpg",
+   "Bench_Dips/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-235": {
+  "name": "Parallel Bar Dip, Upright Torso",
+  "section": "Triceps",
+  "desc": "On parallel bars, stay upright, lower and press up.",
+  "note": "",
+  "img": [
+   "Dips_-_Triceps_Version/0.jpg",
+   "Dips_-_Triceps_Version/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-236": {
+  "name": "Triceps Dip Machine",
+  "section": "Triceps",
+  "desc": "Sit and push handles down to straighten your arms.",
+  "note": "",
+  "img": [
+   "Dip_Machine/0.jpg",
+   "Dip_Machine/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-237": {
+  "name": "Diamond Push-Up",
+  "section": "Triceps",
+  "desc": "Push-up with thumbs and fingers forming a diamond under your chest.",
+  "note": "",
+  "img": [
+   "Push-Ups_-_Close_Triceps_Position/0.jpg",
+   "Push-Ups_-_Close_Triceps_Position/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-238": {
+  "name": "JM Press",
+  "section": "Triceps",
+  "desc": "Hybrid of a skull crusher and a close-grip press, lower a bar toward your chin and press up.",
+  "note": "",
+  "img": [
+   "JM_Press/0.jpg",
+   "JM_Press/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-239": {
+  "name": "Wrist Curl",
+  "section": "Forearms And Grip",
+  "desc": "Forearms on your thighs, palms up, curl the weight up using only your wrists.",
+  "note": "",
+  "img": [
+   "Seated_Dumbbell_Palms-Up_Wrist_Curl/0.jpg",
+   "Seated_Dumbbell_Palms-Up_Wrist_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-240": {
+  "name": "Reverse Wrist Curl",
+  "section": "Forearms And Grip",
+  "desc": "Same with palms down.",
+  "note": "",
+  "img": [
+   "Seated_Dumbbell_Palms-Down_Wrist_Curl/0.jpg",
+   "Seated_Dumbbell_Palms-Down_Wrist_Curl/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-241": {
+  "name": "Dead Hang",
+  "section": "Forearms And Grip",
+  "desc": "Hang from a bar for time.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-242": {
+  "name": "Plate Pinch Hold",
+  "section": "Forearms And Grip",
+  "desc": "Pinch two weight plates together with your fingers and hold.",
+  "note": "",
+  "img": [
+   "Plate_Pinch/0.jpg",
+   "Plate_Pinch/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-243": {
+  "name": "Dumbbell Thruster",
+  "section": "Full Body And Circuit Friendly",
+  "desc": "Squat with dumbbells at your shoulders, then stand and press them overhead.",
+  "note": "Image shows kettlebells. Use dumbbells held at your shoulders.",
+  "img": [
+   "Kettlebell_Thruster/0.jpg",
+   "Kettlebell_Thruster/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image plus cue",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-244": {
+  "name": "Goblet Squat to Press",
+  "section": "Full Body And Circuit Friendly",
+  "desc": "Squat holding one weight at your chest, then stand and press it overhead.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-245": {
+  "name": "Dumbbell Step-Up to Press",
+  "section": "Full Body And Circuit Friendly",
+  "desc": "Step onto a box, then press dumbbells overhead at the top.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-247": {
+  "name": "Battle Ropes",
+  "section": "Full Body And Circuit Friendly",
+  "desc": "Whip two heavy ropes up and down with your arms.",
+  "note": "",
+  "img": [
+   "Battling_Ropes/0.jpg",
+   "Battling_Ropes/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": "Yes"
+ },
+ "IMF-248": {
+  "name": "Sled Push",
+  "section": "Full Body And Circuit Friendly",
+  "desc": "Lean into a weighted sled and push it across the floor.",
+  "note": "",
+  "img": [
+   "Sled_Push/0.jpg",
+   "Sled_Push/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-249": {
+  "name": "Sled Pull, Backward Walk",
+  "section": "Full Body And Circuit Friendly",
+  "desc": "Hold the sled straps and walk backward, pulling it toward you.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-251": {
+  "name": "Medicine Ball Slam",
+  "section": "Full Body And Circuit Friendly",
+  "desc": "Lift a heavy ball overhead and throw it hard into the floor.",
+  "note": "Image shows a one-arm slam. Use both hands to lift the ball overhead and throw it down.",
+  "img": [
+   "One-Arm_Medicine_Ball_Slam/0.jpg",
+   "One-Arm_Medicine_Ball_Slam/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image plus cue",
+  "ls": "",
+  "hi": "Yes"
+ },
+ "IMF-252": {
+  "name": "Medicine Ball Chest Pass",
+  "section": "Full Body And Circuit Friendly",
+  "desc": "Throw a ball from your chest to a wall or partner.",
+  "note": "",
+  "img": [
+   "Medicine_Ball_Chest_Pass/0.jpg",
+   "Medicine_Ball_Chest_Pass/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-253": {
+  "name": "Burpee",
+  "section": "Full Body And Circuit Friendly",
+  "desc": "Drop to the floor, push up, jump your feet in, then jump up.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "Yes",
+  "hi": "Yes"
+ },
+ "IMF-254": {
+  "name": "Jumping Jacks",
+  "section": "Full Body And Circuit Friendly",
+  "desc": "Jump your feet wide while raising your arms overhead, then back together.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Text only",
+  "ls": "",
+  "hi": "Yes"
+ },
+ "IMF-255": {
+  "name": "High Knees",
+  "section": "Full Body And Circuit Friendly",
+  "desc": "Run in place, driving your knees up high.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Text only",
+  "ls": "",
+  "hi": "Yes"
+ },
+ "IMF-256": {
+  "name": "Jump Rope",
+  "section": "Full Body And Circuit Friendly",
+  "desc": "Swing a rope under your feet and jump over it.",
+  "note": "",
+  "img": [
+   "Rope_Jumping/0.jpg",
+   "Rope_Jumping/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": "Yes"
+ },
+ "IMF-259": {
+  "name": "Stair Climber, Steady",
+  "section": "Full Body And Circuit Friendly",
+  "desc": "Step continuously on a machine with moving stairs.",
+  "note": "",
+  "img": [
+   "Step_Mill/0.jpg",
+   "Step_Mill/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-260": {
+  "name": "Incline Treadmill Walk",
+  "section": "Full Body And Circuit Friendly",
+  "desc": "Walk at a steady pace with the treadmill tilted uphill.",
+  "note": "Image shows a flat treadmill. Raise the incline so you are walking uphill.",
+  "img": [
+   "Walking_Treadmill/0.jpg",
+   "Walking_Treadmill/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image plus cue",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-262": {
+  "name": "Child's Pose",
+  "section": "Cool-Down Stretches",
+  "desc": "Kneel, sit back on your heels, reach your arms forward on the floor.",
+  "note": "",
+  "img": [
+   "Childs_Pose/0.jpg",
+   "Childs_Pose/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-263": {
+  "name": "Child's Pose with Side Reach",
+  "section": "Cool-Down Stretches",
+  "desc": "From child's pose, walk both hands to one side to stretch your side body.",
+  "note": "Image shows the basic pose. Walk both hands to one side to stretch your side.",
+  "img": [
+   "Childs_Pose/0.jpg",
+   "Childs_Pose/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image plus cue",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-264": {
+  "name": "Figure-Four Stretch",
+  "section": "Cool-Down Stretches",
+  "desc": "Lie on your back, ankle on opposite knee, pull the legs toward you to stretch your glute.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-265": {
+  "name": "Supine Hamstring Stretch with Strap",
+  "section": "Cool-Down Stretches",
+  "desc": "Lie on your back, loop a strap around one foot, raise the straight leg.",
+  "note": "",
+  "img": [
+   "Hamstring_Stretch/0.jpg",
+   "Hamstring_Stretch/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-268": {
+  "name": "Lying Knee-to-Chest Stretch",
+  "section": "Cool-Down Stretches",
+  "desc": "On your back, hug one knee toward your chest.",
+  "note": "",
+  "img": [
+   "One_Knee_To_Chest/0.jpg",
+   "One_Knee_To_Chest/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-269": {
+  "name": "Lying Spinal Twist, Gentle",
+  "section": "Cool-Down Stretches",
+  "desc": "On your back, drop both knees to one side, shoulders stay down.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-271": {
+  "name": "Standing Quad Stretch",
+  "section": "Cool-Down Stretches",
+  "desc": "Stand and pull one heel toward your glute.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-272": {
+  "name": "Standing Calf Stretch",
+  "section": "Cool-Down Stretches",
+  "desc": "Hands on a wall, one leg back with heel down, lean forward.",
+  "note": "",
+  "img": [
+   "Calf_Stretch_Hands_Against_Wall/0.jpg",
+   "Calf_Stretch_Hands_Against_Wall/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-273": {
+  "name": "Doorway Chest Stretch",
+  "section": "Cool-Down Stretches",
+  "desc": "Forearm on a door frame, step through to stretch your chest.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-274": {
+  "name": "Cross-Body Shoulder Stretch",
+  "section": "Cool-Down Stretches",
+  "desc": "Pull one arm across your chest with the other arm.",
+  "note": "",
+  "img": [
+   "Shoulder_Stretch/0.jpg",
+   "Shoulder_Stretch/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-275": {
+  "name": "Overhead Triceps Stretch",
+  "section": "Cool-Down Stretches",
+  "desc": "Bend one arm behind your head and gently press the elbow with the other hand.",
+  "note": "",
+  "img": [
+   "Triceps_Stretch/0.jpg",
+   "Triceps_Stretch/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-277": {
+  "name": "Upper Trap Stretch",
+  "section": "Cool-Down Stretches",
+  "desc": "Tilt your ear toward your shoulder and gently add pressure with your hand.",
+  "note": "",
+  "img": [
+   "Side_Neck_Stretch/0.jpg",
+   "Side_Neck_Stretch/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-279": {
+  "name": "Diaphragmatic Breathing, 90/90 Position",
+  "section": "Cool-Down Stretches",
+  "desc": "On your back, calves on a bench, take slow deep belly breaths.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Text only",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-282": {
+  "name": "Foam Roll, Quads",
+  "section": "Active Recovery And Mobility Sessions",
+  "desc": "Lie face down with a roller under your thighs, slowly roll.",
+  "note": "",
+  "img": [
+   "Quadriceps-SMR/0.jpg",
+   "Quadriceps-SMR/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-283": {
+  "name": "Foam Roll, Upper Back",
+  "section": "Active Recovery And Mobility Sessions",
+  "desc": "Roller under your upper back, arms crossed, slowly roll.",
+  "note": "",
+  "img": [
+   "Rhomboids-SMR/0.jpg",
+   "Rhomboids-SMR/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-284": {
+  "name": "Foam Roll, Glutes",
+  "section": "Active Recovery And Mobility Sessions",
+  "desc": "Sit on a roller or ball, slowly roll over your glute muscles.",
+  "note": "",
+  "img": [
+   "Piriformis-SMR/0.jpg",
+   "Piriformis-SMR/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-285": {
+  "name": "Foam Roll, Calves",
+  "section": "Active Recovery And Mobility Sessions",
+  "desc": "Sit with the roller under your calves, lift your hips and roll.",
+  "note": "",
+  "img": [
+   "Calves-SMR/0.jpg",
+   "Calves-SMR/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-286": {
+  "name": "Foam Roll, Lats",
+  "section": "Active Recovery And Mobility Sessions",
+  "desc": "Lie on your side with the roller under your armpit area, slowly roll.",
+  "note": "",
+  "img": [
+   "Latissimus_Dorsi-SMR/0.jpg",
+   "Latissimus_Dorsi-SMR/1.jpg"
+  ],
+  "video": "",
+  "plan": "Database image",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-295": {
+  "name": "Ankle Mobility Rock",
+  "section": "Active Recovery And Mobility Sessions",
+  "desc": "Half kneeling, slide your knee forward over your toes with your heel down.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Own video needed",
+  "ls": "",
+  "hi": ""
+ },
+ "IMF-297": {
+  "name": "Breathing Drills, Box Breathing",
+  "section": "Active Recovery And Mobility Sessions",
+  "desc": "Breathe in for 4 seconds, hold 4, out 4, hold 4.",
+  "note": "",
+  "img": [],
+  "video": "",
+  "plan": "Text only",
+  "ls": "",
+  "hi": ""
+ }
+}
