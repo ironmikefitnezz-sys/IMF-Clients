@@ -1,5 +1,17 @@
 {
   "client": "Justin",
   "muscle_group": "Shoulders",
-  "sessions": []
+  "sessions": [
+    {
+      "date": "2026-10-09",
+      "exercises": [
+        "Seated Dumbbell Shoulder Press",
+        "Cable Face Pull",
+        "Dumbbell Lateral Raise",
+        "Dumbbell Front Raise",
+        "Machine Rear Delt Fly",
+        "Dumbbell Arnold Press"
+      ]
+    }
+  ]
 }
