@@ -4,6 +4,37 @@
   "sessions": [
     {
       "date": "2026-10-09",
+      "warmup": [
+        "[IMF-015 | Arm Circles]",
+        "[IMF-014 | Wall Slides]",
+        "[IMF-004 | Standing Hip Circles]",
+        "[IMF-007 | 90/90 Hip Switches]",
+        "[IMF-021 | Light Bike]"
+      ],
+      "main_block": [
+        "Superset 1: complete all sets before moving on",
+        "Exercise A: [IMF-186 | Arnold Press] 4 sets of 10 reps, rest 50 seconds after completing both exercises then repeat",
+        "Exercise B: [IMF-189 | Cable Lateral Raise] 4 sets of 12 reps each side",
+        "Superset 2: complete all sets before moving on",
+        "Exercise A: [IMF-190 | Machine Lateral Raise] 3 sets of 15 reps, rest 50 seconds after completing both exercises then repeat",
+        "Exercise B: [IMF-193 | Cable Front Raise] 3 sets of 12 reps",
+        "Superset 3: complete all sets before moving on",
+        "Exercise A: [IMF-172 | Face Pull] 3 sets of 15 reps, rest 50 seconds after completing both exercises then repeat",
+        "Exercise B: [IMF-197 | Band Pull-Apart] 3 sets of 15 reps",
+        "Finisher: traditional sets",
+        "[IMF-199 | External Rotation, Cable] 2 sets of 15 reps each side, rest 45 seconds between sets",
+        "Note: Superset 1 requires a dumbbell station and a cable station at the same time. If both are not available, perform the Arnold Press with dumbbells first, rest 30 seconds, then move to the cable for lateral raises and treat them as traditional sets."
+      ],
+      "cooldown": [
+        "[IMF-274 | Cross-Body Shoulder Stretch]",
+        "[IMF-275 | Overhead Triceps Stretch]",
+        "[IMF-277 | Upper Trap Stretch]",
+        "[IMF-268 | Lying Knee-to-Chest Stretch]",
+        "[IMF-279 | Diaphragmatic Breathing, 90/90 Position]"
+      ]
+    },
+    {
+      "date": "2026-10-09",
       "exercises": [
         "[IMF-181 | Dumbbell Shoulder Press, Seated] 4 sets of 10 reps, controlled press up and a slow lower back down",
         "[IMF-188 | Dumbbell Lateral Raise] 4 sets of 12 reps, raise to shoulder height and resist the weight on the way down",
