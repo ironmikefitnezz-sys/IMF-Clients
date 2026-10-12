@@ -1,5 +1,30 @@
 {
   "client": "Christine",
   "muscle_group": "Lower",
-  "sessions": []
+  "sessions": [
+    {
+      "date": "2026-10-12",
+      "warmup": [
+        "[IMF-020 | Light Treadmill Walk]",
+        "[IMF-004 | Standing Hip Circles]",
+        "[IMF-005 | Leg Swings]",
+        "[IMF-019 | Bodyweight Squat to Box]"
+      ],
+      "main_block": [
+        "[IMF-065 | Leg Press] 3 sets of 12 reps, rest 60 seconds between sets.",
+        "[IMF-063 | Goblet Squat] 3 sets of 12 reps, rest 60 seconds between sets.",
+        "[IMF-092 | Hip Thrust, Machine] 3 sets of 12 reps, rest 60 seconds between sets.",
+        "[IMF-098 | Seated Leg Curl] 3 sets of 12 reps, rest 60 seconds between sets.",
+        "[IMF-082 | Leg Extension] 3 sets of 12 reps, rest 60 seconds between sets.",
+        "[IMF-114 | Hip Abduction Machine] 3 sets of 15 reps, rest 45 seconds between sets."
+      ],
+      "cooldown": [
+        "[IMF-264 | Figure-Four Stretch]",
+        "[IMF-265 | Supine Hamstring Stretch with Strap]",
+        "[IMF-268 | Lying Knee-to-Chest Stretch]",
+        "[IMF-271 | Standing Quad Stretch]",
+        "[IMF-279 | Diaphragmatic Breathing, 90/90 Position]"
+      ]
+    }
+  ]
 }
