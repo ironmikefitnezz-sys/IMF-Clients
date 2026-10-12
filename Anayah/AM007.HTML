@@ -1,1 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Iron Mike Fitness</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+  body {
+    background: #111827;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    color: #F9FAFB;
+    min-height: 100vh;
+  }
+
+  .header {
+    background: #0D1117;
+    padding: 28px 20px 20px;
+    text-align: center;
+    border-bottom: 3px solid #2ECC71;
+  }
+
+  .logo-container img {
+    width: 200px;
+    max-width: 75vw;
+    height: auto;
+    display: block;
+    margin: 0 auto 16px;
+  }
+
+  .logo-fallback {
+    font-size: 20px;
+    font-weight: 900;
+    color: #2ECC71;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+  }
+
+  .header-label {
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    color: #2ECC71;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+
+  .header-client {
+    font-size: 26px;
+    font-weight: 800;
+    color: #F9FAFB;
+    letter-spacing: 0.02em;
+  }
+
+  .header-date {
+    font-size: 16px;
+    color: #9CA3AF;
+    margin-top: 4px;
+  }
+
+  .intensity-strip {
+    background: #2ECC71;
+    padding: 9px 20px;
+    text-align: center;
+  }
+
+  .intensity-strip span {
+    font-size: 12px;
+    font-weight: 800;
+    color: #0D1117;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .sections {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .section {
+    background: #1F2937;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  .section-head {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 14px;
+    background: #374151;
+    border-left: 4px solid #2ECC71;
+  }
+
+  .section-head.alt { border-left-color: #1A9E54; }
+  .section-head.note { border-left-color: #F59E0B; }
+
+  .section-icon { font-size: 15px; flex-shrink: 0; }
+
+  .section-title {
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.14em;
+    color: #D1FAE5;
+    text-transform: uppercase;
+  }
+
+  .section-title.note { color: #FDE68A; }
+
+  .section-body {
+    padding: 14px;
+    font-size: 15px;
+    line-height: 1.75;
+    color: #E5E7EB;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  .section-body.readiness {
+    color: #A7F3D0;
+    font-style: italic;
+  }
+
+  .footer {
+    padding: 24px 20px;
+    text-align: center;
+    border-top: 1px solid #374151;
+    margin-top: 4px;
+  }
+
+  .footer-line {
+    width: 36px;
+    height: 3px;
+    background: #2ECC71;
+    margin: 0 auto 14px;
+  }
+
+  .footer-tagline {
+    font-size: 13px;
+    color: #6B7280;
+    font-style: italic;
+    margin-bottom: 6px;
+  }
+
+  .footer-url {
+    font-size: 12px;
+    color: #2ECC71;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+  }
+
+  .section-body.rich {
+    white-space: normal;
+    padding: 4px 14px 14px;
+  }
+
+  .grp {
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #6EE7B7;
+    margin: 18px 0 6px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #374151;
+  }
+
+  .grp small {
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0;
+    text-transform: none;
+    color: #9CA3AF;
+    margin-left: 8px;
+  }
+
+  .ex {
+    background: #111827;
+    border-radius: 4px;
+    border-left: 3px solid #2ECC71;
+    padding: 12px;
+    margin: 10px 0;
+  }
+
+  .ex-head {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .ex-label {
+    background: #2ECC71;
+    color: #0D1117;
+    font-size: 11px;
+    font-weight: 800;
+    border-radius: 3px;
+    padding: 2px 7px;
+    flex-shrink: 0;
+  }
+
+  .ex-name {
+    font-size: 16px;
+    font-weight: 700;
+    color: #F9FAFB;
+  }
+
+  .ex-media {
+    display: flex;
+    gap: 8px;
+    margin: 10px 0 6px;
+  }
+
+  .ex-media img {
+    width: calc(50% - 4px);
+    height: auto;
+    border-radius: 4px;
+    display: block;
+    background: #1F2937;
+  }
+
+  .ex-desc {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #9CA3AF;
+    margin-top: 8px;
+  }
+
+  .ex-note {
+    font-size: 13px;
+    line-height: 1.5;
+    color: #FDE68A;
+    margin-top: 6px;
+  }
+
+  .ex-video {
+    margin-top: 8px;
+  }
+
+  .ex-video a {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    color: #0D1117;
+    background: #2ECC71;
+    padding: 6px 12px;
+    border-radius: 3px;
+    text-decoration: none;
+  }
+
+  .ex-instr {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #E5E7EB;
+    margin-top: 10px;
+    padding-top: 8px;
+    border-top: 1px solid #1F2937;
+  }
+
+  .line {
+    font-size: 15px;
+    line-height: 1.7;
+    color: #E5E7EB;
+    margin: 6px 0;
+  }
+
+  .line.rest {
+    color: #9CA3AF;
+    font-style: italic;
+    font-size: 14px;
+  }
+</style>
+</head>
+<body>
+
+  <div class="header">
+    <div class="logo-container">
+      <img
+        src="https://ironmikefitnezz-sys.github.io/IMF-Clients/IMF.png"
+        alt="Iron Mike Fitness"
+        onerror="this.style.display='none'">
+    </div>
+    <div class="header-label">Your Daily Coaching Session</div>
+    <div class="header-client">Anayah</div>
+    <div class="header-date">2026-10-12</div>
+  </div>
+
+  <div class="intensity-strip">
+    <span>Today's Session &nbsp;|&nbsp; Full Session</span>
+  </div>
+
+  <div class="sections">
+
+    <div class="section">
+      <div class="section-head">
+        <span class="section-title">Readiness Assessment</span>
+      </div>
+      <div class="section-body readiness">You came in today fully charged with perfect sleep, high energy, and zero soreness, so you are in the best possible position to put in a strong core and cardio session.</div>
+    </div>
+
+    <div class="section">
+      <div class="section-head alt">
+        <span class="section-title">Warm-Up</span>
+      </div>
+      <div class="section-body rich"><div class="ex"><div class="ex-head"><span class="ex-name">Light Treadmill Walk</span></div><div class="ex-media"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Walking_Treadmill/0.jpg" alt="Light Treadmill Walk demonstration 1" loading="lazy"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Walking_Treadmill/1.jpg" alt="Light Treadmill Walk demonstration 2" loading="lazy"></div><div class="ex-desc">Easy walk to raise your heart rate and warm up.</div><div class="ex-instr">5 minutes, gets the blood moving and raises your body temperature before the main work begins.</div></div>
+<div class="ex"><div class="ex-head"><span class="ex-name">Cat-Cow</span></div><div class="ex-media"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cat_Stretch/0.jpg" alt="Cat-Cow demonstration 1" loading="lazy"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cat_Stretch/1.jpg" alt="Cat-Cow demonstration 2" loading="lazy"></div><div class="ex-desc">On hands and knees, arch your back up, then let it sink down, slowly.</div><div class="ex-instr">10 reps, loosens up the spine and prepares your core for the work ahead.</div></div>
+<div class="ex"><div class="ex-head"><span class="ex-name">Bird Dog</span></div><div class="ex-desc">On hands and knees, reach one arm and the opposite leg straight out, then switch.</div><div class="ex-instr">8 reps each side, activates the core stabilizers you will be relying on throughout the session.</div></div></div>
+    </div>
+
+    <div class="section">
+      <div class="section-head">
+        <span class="section-title">Main Block</span>
+      </div>
+      <div class="section-body rich"><div class="line">CORE BLOCK</div>
+<div class="ex"><div class="ex-head"><span class="ex-name">Plank, Forearms</span></div><div class="ex-media"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg" alt="Plank, Forearms demonstration 1" loading="lazy"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg" alt="Plank, Forearms demonstration 2" loading="lazy"></div><div class="ex-desc">Hold a straight body line on your forearms and toes.</div><div class="ex-instr">3 sets of 30 seconds, rest 45 seconds between sets.</div></div>
+<div class="ex"><div class="ex-head"><span class="ex-name">Reverse Crunch</span></div><div class="ex-media"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Crunch/0.jpg" alt="Reverse Crunch demonstration 1" loading="lazy"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Crunch/1.jpg" alt="Reverse Crunch demonstration 2" loading="lazy"></div><div class="ex-desc">On your back, curl your knees toward your chest by lifting your hips slightly.</div><div class="ex-instr">3 sets of 12 reps, rest 45 seconds between sets.</div></div>
+<div class="ex"><div class="ex-head"><span class="ex-name">Bicycle Crunch</span></div><div class="ex-media"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg" alt="Bicycle Crunch demonstration 1" loading="lazy"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/1.jpg" alt="Bicycle Crunch demonstration 2" loading="lazy"></div><div class="ex-desc">On your back, bring opposite elbow and knee together in a pedaling motion.</div><div class="ex-instr">3 sets of 15 reps each side, rest 45 seconds between sets.</div></div>
+<div class="ex"><div class="ex-head"><span class="ex-name">Pallof Press</span></div><div class="ex-media"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg" alt="Pallof Press demonstration 1" loading="lazy"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg" alt="Pallof Press demonstration 2" loading="lazy"></div><div class="ex-desc">Stand sideways to a cable, press the handle straight out and resist being twisted.</div><div class="ex-instr">3 sets of 10 reps each side, rest 45 seconds between sets.</div></div>
+<div class="ex"><div class="ex-head"><span class="ex-name">Side Plank</span></div><div class="ex-media"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Bridge/0.jpg" alt="Side Plank demonstration 1" loading="lazy"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Bridge/1.jpg" alt="Side Plank demonstration 2" loading="lazy"></div><div class="ex-desc">Lie on your side, lift your hips so your body forms a straight line, hold.</div><div class="ex-instr">3 sets of 20 seconds each side, rest 45 seconds between sets.</div></div>
+<div class="ex"><div class="ex-head"><span class="ex-name">Cable Woodchop, High to Low</span></div><div class="ex-media"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg" alt="Cable Woodchop, High to Low demonstration 1" loading="lazy"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg" alt="Cable Woodchop, High to Low demonstration 2" loading="lazy"></div><div class="ex-desc">Pull a cable from above one shoulder down across your body.</div><div class="ex-instr">3 sets of 10 reps each side, rest 45 seconds between sets.</div></div>
+<div class="line">CARDIO BLOCK</div>
+<div class="ex"><div class="ex-head"><span class="ex-name">Stair Climber, Steady</span></div><div class="ex-media"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Step_Mill/0.jpg" alt="Stair Climber, Steady demonstration 1" loading="lazy"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Step_Mill/1.jpg" alt="Stair Climber, Steady demonstration 2" loading="lazy"></div><div class="ex-desc">Step continuously on a machine with moving stairs.</div><div class="ex-instr">12 minutes at a comfortable steady pace, no rest needed, focus on keeping your breathing controlled throughout.</div></div></div>
+    </div>
+
+    <div class="section">
+      <div class="section-head alt">
+        <span class="section-title">Cool-Down</span>
+      </div>
+      <div class="section-body rich"><div class="ex"><div class="ex-head"><span class="ex-name">Lying Knee-to-Chest Stretch</span></div><div class="ex-media"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Knee_To_Chest/0.jpg" alt="Lying Knee-to-Chest Stretch demonstration 1" loading="lazy"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Knee_To_Chest/1.jpg" alt="Lying Knee-to-Chest Stretch demonstration 2" loading="lazy"></div><div class="ex-desc">On your back, hug one knee toward your chest.</div><div class="ex-instr">30 seconds each side, releases tension in the lower back and hips after core work.</div></div>
+<div class="ex"><div class="ex-head"><span class="ex-name">Lying Spinal Twist, Gentle</span></div><div class="ex-desc">On your back, drop both knees to one side, shoulders stay down.</div><div class="ex-instr">30 seconds each side, helps decompress the spine after all the core engagement.</div></div>
+<div class="ex"><div class="ex-head"><span class="ex-name">Child&#39;s Pose</span></div><div class="ex-media"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Childs_Pose/0.jpg" alt="Child&#39;s Pose demonstration 1" loading="lazy"><img src="https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Childs_Pose/1.jpg" alt="Child&#39;s Pose demonstration 2" loading="lazy"></div><div class="ex-desc">Kneel, sit back on your heels, reach your arms forward on the floor.</div><div class="ex-instr">45 seconds, lets your core and back fully relax before you finish.</div></div>
+<div class="ex"><div class="ex-head"><span class="ex-name">Diaphragmatic Breathing, 90/90 Position</span></div><div class="ex-desc">On your back, calves on a bench, take slow deep belly breaths.</div><div class="ex-instr">2 minutes, brings your heart rate down and reinforces the breathing patterns that carry over into your wrestling training.</div></div></div>
+    </div>
+
+    <div class="section">
+      <div class="section-head note">
+        <span class="section-title note">Coach Note</span>
+      </div>
+      <div class="section-body">A strong, stable core is one of the biggest advantages you can build before wrestling season, and today you laid down a solid baseline to build from.</div>
+    </div>
+
+  </div>
+
+  <div class="footer">
+    <div class="footer-line"></div>
+    <div class="footer-tagline">Change Your Life One Muscle At A Time</div>
+    <div class="footer-url">ironmikefitness.net</div>
+  </div>
+
+</body>
+</html>
