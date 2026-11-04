@@ -1,0 +1,22 @@
+{
+  "client": "Ryan",
+  "schedule_type": "ai_determined",
+  "last_trained": {
+    "Chest": "",
+    "Arms": "",
+    "Back": "",
+    "Legs": "",
+    "Shoulders": "",
+    "Core": "",
+    "Cardio": ""
+  },
+  "history": {
+    "Chest": [],
+    "Arms": [],
+    "Back": [],
+    "Legs": [],
+    "Shoulders": [],
+    "Core": [],
+    "Cardio": []
+  }
+}
